@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parking Info</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_your_4_digit_passcode">Enter your 4 digit passcode</string>
+    <string name="btn_continue">Continue</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="house_no">House No : %s</string>
+    <string name="first_name">First Name : %s</string>
+    <string name="last_name">Last Name : %s</string>
+    <string name="vehicle_no">Vehicle No : %s</string>
+    <string name="add_new_details">Add new details</string>
+    <string name="search">Search</string>
+    <string name="no_vehicle_found">No Vehicle Found</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="enter_your_house_number">Enter your house number</string>
+    <string name="gj">GJ</string>
+    <string name="_01">01</string>
+    <string name="aa">AA</string>
+    <string name="_1234">1234</string>
+    <string name="search_no">Search Vehicle number like 1234</string>
+</resources>
